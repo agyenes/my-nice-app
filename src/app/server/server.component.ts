@@ -13,4 +13,5 @@ export class ServerComponent {
         this.serverCreated = true;
         this.serverName = event.target.value;
     }
+    
 }
